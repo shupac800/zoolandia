@@ -1,0 +1,6 @@
+c:\users\shu\documents\visual studio 2015\Projects\zoolandia\zoolandia\bin\Debug\zoolandia.exe.config
+c:\users\shu\documents\visual studio 2015\Projects\zoolandia\zoolandia\bin\Debug\zoolandia.exe
+c:\users\shu\documents\visual studio 2015\Projects\zoolandia\zoolandia\bin\Debug\zoolandia.pdb
+c:\users\shu\documents\visual studio 2015\Projects\zoolandia\zoolandia\obj\Debug\zoolandia.csprojResolveAssemblyReference.cache
+c:\users\shu\documents\visual studio 2015\Projects\zoolandia\zoolandia\obj\Debug\zoolandia.exe
+c:\users\shu\documents\visual studio 2015\Projects\zoolandia\zoolandia\obj\Debug\zoolandia.pdb
